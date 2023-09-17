@@ -1,6 +1,3 @@
-//! Module MetaData
-//!
-//! Module for obtaining and modifying the metadata of the contract.
 use crate::storage_types::{ContractState, DataKey};
 use soroban_sdk::Env;
 

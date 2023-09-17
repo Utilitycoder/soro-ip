@@ -1,6 +1,3 @@
-//! Module Asset
-//!
-//! Module responsible of managing creator submitted Assets and defining its corresponding struct.
 use crate::{
     error::ContractError, payment::execute_payment, payment_contract_info::get_payment_time,
     storage_types::DataKey,

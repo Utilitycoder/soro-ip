@@ -1,6 +1,3 @@
-//! Module Error
-//!
-//! Module that groups the errors within the contract and assigns them a code
 use soroban_sdk::contracterror;
 
 #[contracterror]

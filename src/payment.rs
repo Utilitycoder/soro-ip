@@ -1,6 +1,3 @@
-//! Module Payment
-//!
-//! Module responsible of managing the payments with the help of cross contract invocations to the soroban_token_spec contract.
 mod token_contract {
     soroban_sdk::contractimport!(file = "soroban_token_spec.wasm");
 }

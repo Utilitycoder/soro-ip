@@ -1,6 +1,3 @@
-//! Module PaymentContractInfo
-//!
-//! Module responsible of managing `PaymentContractInfo` and defining its corresponding struct.
 use crate::storage_types::DataKey;
 use soroban_sdk::{contracttype, Address, Bytes, BytesN, Env};
 
